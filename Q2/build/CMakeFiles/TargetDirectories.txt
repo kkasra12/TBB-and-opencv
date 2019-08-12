@@ -1,0 +1,3 @@
+/home/kasra/projects/opencv_blur_feizi/Q2/build/CMakeFiles/edit_cache.dir
+/home/kasra/projects/opencv_blur_feizi/Q2/build/CMakeFiles/rebuild_cache.dir
+/home/kasra/projects/opencv_blur_feizi/Q2/build/CMakeFiles/q2.dir
